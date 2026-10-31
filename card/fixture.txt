@@ -9,4 +9,4 @@ opponent_crest=opponent.png
 accent=#F2C300
 opponent=Pakhtakor Tashkent
 match_id=6050088
-updated=2026-10-31T12:30:03+00:00
+updated=2026-10-31T13:00:03+00:00
