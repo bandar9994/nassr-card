@@ -1,6 +1,6 @@
 competition=AFC Champions League
 fixture=vs Pakhtakor Tashkent (A)
-meta=Toshkent (Tashkent) · MON 02 NOV · 4:45 PM
+meta=Tashkent · MON 02 NOV · 4:45 PM
 state=next
 score=
 minute=
@@ -9,4 +9,4 @@ opponent_crest=opponent.png
 accent=#F2C300
 opponent=Pakhtakor Tashkent
 match_id=6050088
-updated=2026-10-31T03:30:03+00:00
+updated=2026-10-31T03:43:17+00:00
