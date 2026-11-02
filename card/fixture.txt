@@ -1,12 +1,12 @@
 competition=AFC Champions League
 fixture=vs Pakhtakor Tashkent (A)
 meta=Tashkent · MON 02 NOV · 4:45 PM
-state=next
-score=
-minute=
+state=live
+score=0 – 0
+minute=3'
 crest=al-nassr.png
 opponent_crest=opponent.png
 accent=#F2C300
 opponent=Pakhtakor Tashkent
 match_id=6050088
-updated=2026-11-02T13:46:03+00:00
+updated=2026-11-02T13:48:04+00:00
