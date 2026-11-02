@@ -9,4 +9,4 @@ opponent_crest=opponent.png
 accent=#F2C300
 opponent=Al Hazem
 match_id=1000021472
-updated=2026-11-02T19:00:05+00:00
+updated=2026-11-02T19:30:04+00:00
