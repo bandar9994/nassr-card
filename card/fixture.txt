@@ -1,12 +1,12 @@
 competition=Saudi Pro League
-fixture=vs Al Hazem (A)
-meta=Ar Rass · FRI 06 NOV · 5:55 PM
+fixture=vs Al Qadsiah (H)
+meta=TIME TBC
 state=next
 score=
 minute=
 crest=al-nassr.png
 opponent_crest=opponent.png
 accent=#F2C300
-opponent=Al Hazem
-match_id=1000021472
-updated=2026-11-03T13:30:03+00:00
+opponent=Al Qadsiah
+match_id=1000021481
+updated=2026-11-03T14:00:04+00:00
