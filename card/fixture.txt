@@ -9,4 +9,4 @@ opponent_crest=opponent.png
 accent=#F2C300
 opponent=Al Qadsiah
 match_id=1000021481
-updated=2026-11-04T07:00:04+00:00
+updated=2026-11-04T07:30:04+00:00
