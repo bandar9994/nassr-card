@@ -1,12 +1,12 @@
 competition=Saudi Pro League
-fixture=vs Al Qadsiah (H)
-meta=FRI 20 NOV · TIME TBC
+fixture=vs Al Ahli (A)
+meta=Jeddah · FRI 20 NOV · 8:30 PM
 state=next
 score=
 minute=
 crest=al-nassr.png
 opponent_crest=opponent.png
 accent=#F2C300
-opponent=Al Qadsiah
-match_id=1000021481
-updated=2026-11-08T01:00:30+00:00
+opponent=Al Ahli
+match_id=5970153
+updated=2026-11-10T00:30:04+00:00
